@@ -97,7 +97,7 @@ const app = {
         {
             name: 'Rap Chậm Thôi (#HNDCMM)',
             singer: 'RPT MCK x RPT Orijinn ft. RZ Ma$',
-            path: './assets/song/Rap Chậm Thôi (#HNDCMM) - RPT MCK x RPT Orijinn ft. RZ Ma$ (Official Lyric Video).mp3',
+            path: './assets/song/Rap Chậm Thôi.mp3',
             image: './assets/img/rap chậm thôi.jpg'
         },
     ],
